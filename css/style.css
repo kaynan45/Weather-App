@@ -87,6 +87,11 @@ body {
     margin: .6rem 0;
 }
 
+#description-container {
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
 #details-container {
     display: flex;
     justify-content: center;
